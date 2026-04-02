@@ -10,3 +10,4 @@ Here I collect my projects in SQL, Power BI and data visualization — focused o
 
 ## Exploratory Data Analysis
 1. [OGS Go Performance Analysis](https://github.com/macl3ad/ogs-go-analysis) : statistical analysis of personal gameplay data to identify behavioral patterns
+2. [The Elite Divide: Tactical Evolution Analysis](https://github.com/macl3ad/the-elite-divide) : data-driven study of how professional football has evolved between the 2017/18 and 2024/25 seasons
